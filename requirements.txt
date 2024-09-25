@@ -8,3 +8,4 @@ matplotlib-inline==0.1.6
 haversine==2.7.0
 streamlit-folium
 Pillow==10.3.0
+openpyxl
