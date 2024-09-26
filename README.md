@@ -46,7 +46,7 @@ Além do desenvolvimento do site para coleta de dados, decidi criar um Dashboard
   - 3 - Ao analisar minhas próprias estatísticas, observei uma mudança na proporção de minhas participações diretas em gols ao comparar as duas quadras mais utilizadas durante o ano. No Colégio Bom Conselho, a proporção foi de 61% para gols (50) e 39% para assistências (32). Já nos jogos realizados no Clube Geraldo Santana, a proporção foi mais equilibrada, com 48,9% para gols (64) e 51,1% para assistências (67).
 
 ## 4. O produto final do projeto 
-Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. O painel pode ser acessado através desse link: https://fomezero-tkunzler.streamlit.app/
+Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. O painel pode ser acessado através desse link: https://futsal2023-tkunzler.streamlit.app/
 
 ## 5. Conclusão 
 A criação do Dashboard permitiu que todos os participantes visualizassem suas estatísticas e, para aqueles que se aprofundaram nas análises, obtivessem insights sobre seu estilo de jogo e compreensão do desempenho com seus companheiros de equipe.
